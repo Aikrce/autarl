@@ -1,0 +1,5 @@
+pypandoc==1.13
+python-docx==1.1.0
+markdown2==2.4.12
+Flask==3.0.0
+Werkzeug==3.0.1

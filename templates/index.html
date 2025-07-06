@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Markdown文档转换器 - 支持多种格式转换</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #1d1d1f;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+        
+        .header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        h1 {
+            font-size: 48px;
+            font-weight: 700;
+            margin-bottom: 15px;
+            color: white;
+            text-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        
+        .subtitle {
+            font-size: 20px;
+            color: rgba(255, 255, 255, 0.9);
+            font-weight: 300;
+        }
+        
+        .converter-section {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            margin-bottom: 40px;
+        }
+        
+        @media (max-width: 768px) {
+            .converter-section {
+                grid-template-columns: 1fr;
+            }
+            
+            h1 {
+                font-size: 36px;
+            }
+            
+            .subtitle {
+                font-size: 18px;
+            }
+            
+            .container {
+                padding: 20px 15px;
+            }
+            
+            .card {
+                padding: 25px;
+            }
+            
+            .features {
+                padding: 30px;
+            }
+            
+            .upload-area {
+                padding: 30px;
+            }
+            
+            .upload-icon {
+                font-size: 36px;
+            }
+        }
+        
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 28px;
+            }
+            
+            .subtitle {
+                font-size: 16px;
+            }
+            
+            .card {
+                padding: 20px;
+            }
+            
+            .features {
+                padding: 25px;
+            }
+            
+            .upload-area {
+                padding: 25px;
+            }
+            
+            .button {
+                padding: 14px 24px;
+                font-size: 15px;
+            }
+        }
+        
+        .card {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
+            padding: 35px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+            transition: all 0.3s ease;
+        }
+        
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0 16px 48px rgba(0, 0, 0, 0.15);
+            background: rgba(255, 255, 255, 0.98);
+        }
+        
+        .card-title {
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 20px;
+            color: #1d1d1f;
+        }
+        
+        .upload-area {
+            border: 2px dashed #d2d2d7;
+            border-radius: 12px;
+            padding: 40px;
+            text-align: center;
+            transition: all 0.3s ease;
+            cursor: pointer;
+            margin-bottom: 20px;
+        }
+        
+        .upload-area:hover,
+        .upload-area.dragover {
+            border-color: #667eea;
+            background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);
+            transform: translateY(-2px);
+        }
+        
+        .upload-icon {
+            font-size: 48px;
+            margin-bottom: 10px;
+        }
+        
+        .upload-text {
+            color: #86868b;
+            margin-bottom: 10px;
+        }
+        
+        input[type="file"] {
+            display: none;
+        }
+        
+        textarea {
+            width: 100%;
+            min-height: 300px;
+            padding: 15px;
+            border: 1px solid #d2d2d7;
+            border-radius: 12px;
+            font-size: 16px;
+            font-family: 'Consolas', 'Monaco', monospace;
+            resize: vertical;
+            margin-bottom: 20px;
+        }
+        
+        textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+        
+        .method-selector {
+            margin-bottom: 20px;
+        }
+        
+        .method-label {
+            font-weight: 500;
+            margin-bottom: 10px;
+            display: block;
+        }
+        
+        .radio-group {
+            display: flex;
+            gap: 20px;
+        }
+        
+        .radio-option {
+            display: flex;
+            align-items: center;
+        }
+        
+        .radio-option input[type="radio"] {
+            margin-right: 8px;
+        }
+        
+        .button {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border: none;
+            padding: 16px 32px;
+            border-radius: 12px;
+            font-size: 16px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            width: 100%;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .button::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent);
+            transition: left 0.5s;
+        }
+        
+        .button:hover::before {
+            left: 100%;
+        }
+        
+        .button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4);
+        }
+        
+        .button:active {
+            transform: translateY(0);
+        }
+        
+        .button:disabled {
+            background: #d2d2d7;
+            cursor: not-allowed;
+            transform: none;
+        }
+        
+        .button:disabled::before {
+            display: none;
+        }
+        
+        .flash-messages {
+            margin-bottom: 20px;
+        }
+        
+        .flash-message {
+            padding: 16px 20px;
+            border-radius: 12px;
+            margin-bottom: 12px;
+            font-weight: 500;
+            display: flex;
+            align-items: center;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            animation: slideIn 0.3s ease-out;
+        }
+        
+        .flash-message.error {
+            background: rgba(255, 59, 48, 0.9);
+            color: white;
+        }
+        
+        .flash-message.success {
+            background: rgba(52, 199, 89, 0.9);
+            color: white;
+        }
+        
+        .flash-message.info {
+            background: rgba(0, 122, 255, 0.9);
+            color: white;
+        }
+        
+        .flash-message.warning {
+            background: rgba(255, 149, 0, 0.9);
+            color: white;
+        }
+        
+        .flash-message:before {
+            content: '';
+            margin-right: 12px;
+            width: 20px;
+            height: 20px;
+            background-size: contain;
+        }
+        
+        .flash-message.error:before {
+            content: '❌';
+        }
+        
+        .flash-message.success:before {
+            content: '✅';
+        }
+        
+        .flash-message.info:before {
+            content: 'ℹ️';
+        }
+        
+        .flash-message.warning:before {
+            content: '⚠️';
+        }
+        
+        @keyframes slideIn {
+            from {
+                opacity: 0;
+                transform: translateY(-10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .features {
+            background: rgba(255, 255, 255, 0.9);
+            backdrop-filter: blur(15px);
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+        }
+        
+        .features-title {
+            font-size: 32px;
+            font-weight: 600;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 30px;
+        }
+        
+        .feature-icon {
+            font-size: 48px;
+            margin-bottom: 15px;
+        }
+        
+        .feature-title {
+            font-size: 20px;
+            font-weight: 600;
+            margin-bottom: 10px;
+        }
+        
+        .feature-desc {
+            color: #86868b;
+        }
+        
+        .loading {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(102, 126, 234, 0.9);
+            backdrop-filter: blur(10px);
+            z-index: 1000;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+        
+        .loading-text {
+            color: white;
+            font-size: 18px;
+            margin-top: 20px;
+            font-weight: 500;
+        }
+        
+        .spinner {
+            width: 60px;
+            height: 60px;
+            border: 4px solid rgba(255, 255, 255, 0.3);
+            border-top: 4px solid white;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .fade-in {
+            animation: fadeIn 0.6s ease-in-out;
+        }
+        
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .feature-item {
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        
+        .feature-item:hover {
+            transform: translateY(-5px);
+        }
+    </style>
+</head>
+<body>
+    <div class="loading" id="loading">
+        <div class="spinner"></div>
+        <div class="loading-text">正在转换文件，请稍候...</div>
+    </div>
+    
+    <div class="container fade-in">
+        <div class="header">
+            <h1>Markdown文档转换器 v2.0</h1>
+            <p class="subtitle">支持转换为Word、PDF、HTML、TXT等多种格式 | 新增毕业论文模板</p>
+        </div>
+        
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                <div class="flash-messages">
+                    {% for category, message in messages %}
+                        <div class="flash-message {{ category }}">{{ message }}</div>
+                    {% endfor %}
+                </div>
+            {% endif %}
+        {% endwith %}
+        
+        <div class="converter-section">
+            <!-- 文件上传 -->
+            <div class="card">
+                <h2 class="card-title">📁 上传文件</h2>
+                <form action="/convert" method="post" enctype="multipart/form-data" onsubmit="showLoading()">
+                    <div class="upload-area" onclick="document.getElementById('file').click();" ondrop="dropHandler(event);" ondragover="dragOverHandler(event);" ondragleave="dragLeaveHandler(event);">
+                        <div class="upload-icon">📄</div>
+                        <p class="upload-text">点击或拖拽文件到此处</p>
+                        <p style="color: #86868b; font-size: 14px;">支持 .md, .markdown, .txt 格式</p>
+                    </div>
+                    <input type="file" id="file" name="file" accept=".md,.markdown,.txt" onchange="fileSelected(this)">
+                    <div id="file-name" style="margin-bottom: 20px; color: #667eea; font-weight: 500;"></div>
+                    
+                    <div class="method-selector">
+                        <label class="method-label">文档模板：</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="template_file_1" name="template" value="default" checked>
+                                <label for="template_file_1">标准格式，适合一般文档</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="template_file_2" name="template" value="graduation_thesis">
+                                <label for="template_file_2">东北师范大学研究生学位论文格式规范</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="method-selector">
+                        <label class="method-label">输出格式：</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="format1" name="format" value="docx" checked>
+                                <label for="format1">Word (.docx)</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="format2" name="format" value="pdf">
+                                <label for="format2">PDF (.pdf)</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="format3" name="format" value="html">
+                                <label for="format3">HTML (.html)</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="format4" name="format" value="txt">
+                                <label for="format4">纯文本 (.txt)</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="method-selector">
+                        <label class="method-label">转换方法：</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="method1" name="method" value="python-docx" checked>
+                                <label for="method1">Python-docx (推荐)</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="method2" name="method" value="pandoc">
+                                <label for="method2">Pandoc (需要安装)</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <button type="submit" class="button" id="upload-button" disabled>转换文件</button>
+                </form>
+            </div>
+            
+            <!-- 文本输入 -->
+            <div class="card">
+                <h2 class="card-title">✏️ 直接输入</h2>
+                <form action="/convert_text" method="post" onsubmit="showLoading()">
+                    <textarea name="markdown_text" placeholder="在此输入Markdown内容...
+
+# 标题
+## 副标题
+
+**粗体文本** 和 *斜体文本*
+
+- 列表项1
+- 列表项2
+
+```python
+print('Hello, World!')
+```"></textarea>
+                    
+                    <div class="method-selector">
+                        <label class="method-label">文档模板：</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="template_text_1" name="template" value="default" checked>
+                                <label for="template_text_1">标准格式，适合一般文档</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="template_text_2" name="template" value="graduation_thesis">
+                                <label for="template_text_2">东北师范大学研究生学位论文格式规范</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="method-selector">
+                        <label class="method-label">输出格式：</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="format5" name="format" value="docx" checked>
+                                <label for="format5">Word (.docx)</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="format6" name="format" value="pdf">
+                                <label for="format6">PDF (.pdf)</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="format7" name="format" value="html">
+                                <label for="format7">HTML (.html)</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="format8" name="format" value="txt">
+                                <label for="format8">纯文本 (.txt)</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="method-selector">
+                        <label class="method-label">转换方法：</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="radio" id="method3" name="method" value="python-docx" checked>
+                                <label for="method3">Python-docx (推荐)</label>
+                            </div>
+                            <div class="radio-option">
+                                <input type="radio" id="method4" name="method" value="pandoc">
+                                <label for="method4">Pandoc (需要安装)</label>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <button type="submit" class="button">转换文本</button>
+                </form>
+            </div>
+        </div>
+        
+        <div class="features">
+            <h2 class="features-title">功能特点</h2>
+            <div class="features-grid">
+                <div class="feature-item">
+                    <div class="feature-icon">⚡</div>
+                    <h3 class="feature-title">快速转换</h3>
+                    <p class="feature-desc">秒级转换速度，即时获得目标格式文档</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🎨</div>
+                    <h3 class="feature-title">格式保留</h3>
+                    <p class="feature-desc">保留标题、列表、代码块等格式</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🔒</div>
+                    <h3 class="feature-title">安全私密</h3>
+                    <p class="feature-desc">文件本地处理，自动清理临时文件</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🌐</div>
+                    <h3 class="feature-title">中文支持</h3>
+                    <p class="feature-desc">完美支持中文内容和格式</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">📋</div>
+                    <h3 class="feature-title">多格式支持</h3>
+                    <p class="feature-desc">支持Word、PDF、HTML、TXT等多种输出格式</p>
+                </div>
+                <div class="feature-item">
+                    <div class="feature-icon">🔧</div>
+                    <h3 class="feature-title">双引擎</h3>
+                    <p class="feature-desc">支持Python-docx和Pandoc两种转换引擎</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        function fileSelected(input) {
+            const fileName = input.files[0]?.name || '';
+            document.getElementById('file-name').textContent = fileName ? `已选择: ${fileName}` : '';
+            document.getElementById('upload-button').disabled = !fileName;
+        }
+        
+        function dragOverHandler(ev) {
+            ev.preventDefault();
+            ev.currentTarget.classList.add('dragover');
+        }
+        
+        function dragLeaveHandler(ev) {
+            ev.currentTarget.classList.remove('dragover');
+        }
+        
+        function dropHandler(ev) {
+            ev.preventDefault();
+            ev.currentTarget.classList.remove('dragover');
+            
+            if (ev.dataTransfer.items) {
+                for (let i = 0; i < ev.dataTransfer.items.length; i++) {
+                    if (ev.dataTransfer.items[i].kind === 'file') {
+                        const file = ev.dataTransfer.items[i].getAsFile();
+                        document.getElementById('file').files = ev.dataTransfer.files;
+                        fileSelected(document.getElementById('file'));
+                        break;
+                    }
+                }
+            }
+        }
+        
+        function showLoading() {
+            document.getElementById('loading').style.display = 'flex';
+        }
+    </script>
+</body>
+</html>
