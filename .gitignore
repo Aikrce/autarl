@@ -42,6 +42,7 @@ test_*/
 *.pdf
 *.html
 !templates/*.html
+!docs/*.html
 web_server.log
 .DS_Store
 
