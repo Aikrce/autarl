@@ -428,8 +428,23 @@
     
     <div class="container fade-in">
         <div class="header">
-            <h1>Markdown文档转换器 v2.0</h1>
-            <p class="subtitle">支持转换为Word、PDF、HTML、TXT等多种格式 | 新增毕业论文模板</p>
+            <h1>Markdown文档转换器 v2.1</h1>
+            <p class="subtitle">支持转换为Word、PDF、HTML、TXT等多种格式 | 新增Mermaid图表支持</p>
+            <div style="margin-top: 20px;">
+                <a href="/upload_template" style="
+                    background: rgba(255, 255, 255, 0.2);
+                    color: white;
+                    padding: 10px 20px;
+                    border-radius: 25px;
+                    text-decoration: none;
+                    font-weight: 500;
+                    border: 1px solid rgba(255, 255, 255, 0.3);
+                    transition: all 0.3s ease;
+                " onmouseover="this.style.background='rgba(255, 255, 255, 0.3)'" 
+                   onmouseout="this.style.background='rgba(255, 255, 255, 0.2)'">
+                    📤 上传自定义Word模板
+                </a>
+            </div>
         </div>
         
         {% with messages = get_flashed_messages(with_categories=true) %}
@@ -457,15 +472,40 @@
                     
                     <div class="method-selector">
                         <label class="method-label">文档模板：</label>
-                        <div class="radio-group">
+                        <div class="radio-group" style="display: grid; grid-template-columns: 1fr; gap: 8px;">
+                            <!-- 东北师范大学模板 -->
                             <div class="radio-option">
-                                <input type="radio" id="template_file_1" name="template" value="default" checked>
-                                <label for="template_file_1">标准格式，适合一般文档</label>
+                                <input type="radio" id="template_file_nenu" name="template" value="nenu_thesis" checked>
+                                <label for="template_file_nenu">🎓 东北师范大学研究生学位论文格式规范</label>
                             </div>
-                            <div class="radio-option">
-                                <input type="radio" id="template_file_2" name="template" value="graduation_thesis">
-                                <label for="template_file_2">东北师范大学研究生学位论文格式规范</label>
-                            </div>
+                            
+                            <!-- 所有自定义模板 -->
+                            {% if templates %}
+                                {% for template_id, template_info in templates.items() %}
+                                    <div class="radio-option" style="border: 2px solid #667eea; border-radius: 8px; padding: 12px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);">
+                                        <input type="radio" id="template_file_{{ template_id }}" name="template" value="{{ template_id }}">
+                                        <label for="template_file_{{ template_id }}">
+                                            <strong>
+                                                {% if template_info.get('is_standard') %}
+                                                    📋 {{ template_info.name }}
+                                                {% elif template_info.get('is_optimized') %}
+                                                    🌟 {{ template_info.name }}
+                                                {% else %}
+                                                    🆕 {{ template_info.name }}
+                                                {% endif %}
+                                            </strong>
+                                            {% if template_info.description %}
+                                                <br><small style="color: #667eea; font-weight: 500;">{{ template_info.description }}</small>
+                                            {% endif %}
+                                            {% if template_info.get('is_optimized') and template_info.get('optimization_focus') == 'humanities' %}
+                                                <br><small style="color: #764ba2; font-weight: 400;">✨ 人文社科专业优化 • 学术论文首选</small>
+                                            {% elif template_info.get('is_standard') %}
+                                                <br><small style="color: #764ba2; font-weight: 400;">📚 标准学术格式 • 通用论文模板</small>
+                                            {% endif %}
+                                        </label>
+                                    </div>
+                                {% endfor %}
+                            {% endif %}
                         </div>
                     </div>
                     
@@ -505,6 +545,17 @@
                         </div>
                     </div>
                     
+                    <div class="method-selector">
+                        <label class="method-label">特殊功能：</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="checkbox" id="enable_mermaid_file" name="enable_mermaid" value="on">
+                                <label for="enable_mermaid_file">🎨 启用Mermaid图表支持</label>
+                            </div>
+                        </div>
+                        <p style="color: #86868b; font-size: 14px; margin-top: 5px;">支持流程图、序列图、类图等Mermaid图表转换</p>
+                    </div>
+                    
                     <button type="submit" class="button" id="upload-button" disabled>转换文件</button>
                 </form>
             </div>
@@ -529,15 +580,40 @@ print('Hello, World!')
                     
                     <div class="method-selector">
                         <label class="method-label">文档模板：</label>
-                        <div class="radio-group">
+                        <div class="radio-group" style="display: grid; grid-template-columns: 1fr; gap: 8px;">
+                            <!-- 东北师范大学模板 -->
                             <div class="radio-option">
-                                <input type="radio" id="template_text_1" name="template" value="default" checked>
-                                <label for="template_text_1">标准格式，适合一般文档</label>
+                                <input type="radio" id="template_text_nenu" name="template" value="nenu_thesis" checked>
+                                <label for="template_text_nenu">🎓 东北师范大学研究生学位论文格式规范</label>
                             </div>
-                            <div class="radio-option">
-                                <input type="radio" id="template_text_2" name="template" value="graduation_thesis">
-                                <label for="template_text_2">东北师范大学研究生学位论文格式规范</label>
-                            </div>
+                            
+                            <!-- 所有自定义模板 -->
+                            {% if templates %}
+                                {% for template_id, template_info in templates.items() %}
+                                    <div class="radio-option" style="border: 2px solid #667eea; border-radius: 8px; padding: 12px; background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%);">
+                                        <input type="radio" id="template_text_{{ template_id }}" name="template" value="{{ template_id }}">
+                                        <label for="template_text_{{ template_id }}">
+                                            <strong>
+                                                {% if template_info.get('is_standard') %}
+                                                    📋 {{ template_info.name }}
+                                                {% elif template_info.get('is_optimized') %}
+                                                    🌟 {{ template_info.name }}
+                                                {% else %}
+                                                    🆕 {{ template_info.name }}
+                                                {% endif %}
+                                            </strong>
+                                            {% if template_info.description %}
+                                                <br><small style="color: #667eea; font-weight: 500;">{{ template_info.description }}</small>
+                                            {% endif %}
+                                            {% if template_info.get('is_optimized') and template_info.get('optimization_focus') == 'humanities' %}
+                                                <br><small style="color: #764ba2; font-weight: 400;">✨ 人文社科专业优化 • 学术论文首选</small>
+                                            {% elif template_info.get('is_standard') %}
+                                                <br><small style="color: #764ba2; font-weight: 400;">📚 标准学术格式 • 通用论文模板</small>
+                                            {% endif %}
+                                        </label>
+                                    </div>
+                                {% endfor %}
+                            {% endif %}
                         </div>
                     </div>
                     
@@ -575,6 +651,17 @@ print('Hello, World!')
                                 <label for="method4">Pandoc (需要安装)</label>
                             </div>
                         </div>
+                    </div>
+                    
+                    <div class="method-selector">
+                        <label class="method-label">特殊功能：</label>
+                        <div class="radio-group">
+                            <div class="radio-option">
+                                <input type="checkbox" id="enable_mermaid_text" name="enable_mermaid" value="on">
+                                <label for="enable_mermaid_text">🎨 启用Mermaid图表支持</label>
+                            </div>
+                        </div>
+                        <p style="color: #86868b; font-size: 14px; margin-top: 5px;">支持流程图、序列图、类图等Mermaid图表转换</p>
                     </div>
                     
                     <button type="submit" class="button">转换文本</button>

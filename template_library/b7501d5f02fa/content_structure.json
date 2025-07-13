@@ -1,0 +1,1811 @@
+{
+  "paragraphs": [
+    {
+      "index": 0,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 1,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 2,
+      "text": "硕士研究生学位论文",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 3,
+      "text": "学校代码：10200   研究生学号：XXXXXXXXXX   密级：无",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 4,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 5,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 6,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 7,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 8,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 9,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 10,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 11,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 12,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 13,
+      "text": "中文论文题目",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 14,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 15,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 16,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 17,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 18,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 19,
+      "text": "作    者                       ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 20,
+      "text": "指导教师                       ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 21,
+      "text": "一级学科                       ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 22,
+      "text": "二级学科                       ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 23,
+      "text": "研究方向                       ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 24,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 25,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 26,
+      "text": "    学位评定委员会",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 27,
+      "text": "20XX年XX月",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 28,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 29,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 30,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 31,
+      "text": " A Thesis/Dissertation",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 32,
+      "text": "School code: 10200   Student ID: XXXXXXXXXX   Security level：",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 33,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 34,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 35,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 36,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 37,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 38,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 39,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 40,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 41,
+      "text": "Thesis/Dissertation Title",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 42,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 43,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 44,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 45,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 46,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 47,
+      "text": "Author                         ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 48,
+      "text": "Supervisor                       ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 49,
+      "text": "Primary Subject Classification        ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 50,
+      "text": "Secondary Subject Classification      ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 51,
+      "text": "Research Area                    ",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 52,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 53,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 54,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 55,
+      "text": "Northeast Normal University Academic Degree Evaluation Committee",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 56,
+      "text": "20XX, XX",
+      "style": "Normal",
+      "level": 1,
+      "is_heading": false
+    },
+    {
+      "index": 57,
+      "text": "学位论文评阅专家及答辩委员会人员信息",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 58,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 59,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 60,
+      "text": "独　创　性　声　明",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 61,
+      "text": "本人郑重声明：所提交的学位论文是本人在导师指导下独立进行研究工作所取得的成果。据我所知，除了特别加以标注和致谢的地方外，论文中不包含其他人已经发表或撰写过的研究成果。对本人的研究做出重要贡献的个人和集",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 62,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 63,
+      "text": "论文作者签名：　　　　　　         日        期：　　　　　　",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 64,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 65,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 66,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 67,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 68,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 69,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 70,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 71,
+      "text": "学位论文使用授权书",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 72,
+      "text": "本学位论文作者完全了解东北师范大学有关保留、使用学位论文的规定，即：东北师范大学有权保留并向国家有关部门或机构送交学位论文的复印件和电子版，允许论文被查阅和借阅。本人授权东北师范大学可以将学位论文的全",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 73,
+      "text": "（保密的学位论文在解密后适用本授权书）",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 74,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 75,
+      "text": "论文作者签名：　　　　　　         指导教师签名：　　　　　　",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 76,
+      "text": "日        期：　　　　　　         日        期：　　　　　　",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 77,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 78,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 79,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 80,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 81,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 82,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 83,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 84,
+      "text": "摘    要",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 85,
+      "text": "文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 86,
+      "text": "文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本文本。文本文本文本文本文本文本文本文本文本文",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 87,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 88,
+      "text": "关键词：关键词1；关键词2；关键词3；关键词4",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 89,
+      "text": "Abstract",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 90,
+      "text": "Text text text text text text text text text text text text text text text, text text text text text",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 91,
+      "text": "Second paragraph text text text text text text text text text text text text text text, text text te",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 92,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 93,
+      "text": "Key words: keywords1; keywords2; keywords3; keywords4",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 94,
+      "text": "目    录",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 95,
+      "text": "摘    要\tI",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 96,
+      "text": "Abstract\tII",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 97,
+      "text": "目    录\tIII",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 98,
+      "text": "插图目录\tV",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 99,
+      "text": "附表目录\tVI",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 100,
+      "text": "符号和缩略语说明\tVII",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 101,
+      "text": "第一章 引言（绪论）\t1",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 102,
+      "text": "一、 标题\t1",
+      "style": "toc 2",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 103,
+      "text": "（一） 标题\t1",
+      "style": "toc 3",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 104,
+      "text": "（二） 标题\t4",
+      "style": "toc 3",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 105,
+      "text": "（三） 标题\t5",
+      "style": "toc 3",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 106,
+      "text": "二、 标题\t5",
+      "style": "toc 2",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 107,
+      "text": "三、 标题\t5",
+      "style": "toc 2",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 108,
+      "text": "第二章 标题\t7",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 109,
+      "text": "一、 标题\t7",
+      "style": "toc 2",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 110,
+      "text": "（一） 标题\t7",
+      "style": "toc 3",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 111,
+      "text": "第三章 标题\t8",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 112,
+      "text": "一、 标题\t8",
+      "style": "toc 2",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 113,
+      "text": "（一） 标题\t8",
+      "style": "toc 3",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 114,
+      "text": "第四章 标题\t9",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 115,
+      "text": "一、 标题\t9",
+      "style": "toc 2",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 116,
+      "text": "（一） 标题\t9",
+      "style": "toc 3",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 117,
+      "text": "第五章 结语（结论）\t10",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 118,
+      "text": "参考文献\t11",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 119,
+      "text": "附录A  XXXX调查问卷\t12",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 120,
+      "text": "附录B  XXXX统计数据\t13",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 121,
+      "text": "后    记\t14",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 122,
+      "text": "在学期间取得创新性成果情况\t15",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 123,
+      "text": "导师（组）对学位论文的评语\t16",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 124,
+      "text": "答辩委员会决议书\t17",
+      "style": "toc 1",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 125,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 126,
+      "text": "插图目录",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 127,
+      "text": "图1.1  图题\t3",
+      "style": "table of figures",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 128,
+      "text": "图1.2  图题\t4",
+      "style": "table of figures",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 129,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 130,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 131,
+      "text": "附表目录",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 132,
+      "text": "表1.1  表题\t2",
+      "style": "table of figures",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 133,
+      "text": "表1.2  表题\t5",
+      "style": "table of figures",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 134,
+      "text": "",
+      "style": "table of figures",
+      "level": 1,
+      "is_heading": false
+    },
+    {
+      "index": 135,
+      "text": "符号和缩略语说明",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 136,
+      "text": "XX             说明说明说明",
+      "style": "符号和缩略语说明",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 137,
+      "text": "XXX            说明说明说明",
+      "style": "符号和缩略语说明",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 138,
+      "text": "XXXX          说明说明说明",
+      "style": "符号和缩略语说明",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 139,
+      "text": "XXXXX         说明说明说明",
+      "style": "符号和缩略语说明",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 140,
+      "text": "XX             说明说明说明",
+      "style": "符号和缩略语说明",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 141,
+      "text": "XXX            说明说明说明",
+      "style": "符号和缩略语说明",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 142,
+      "text": "XXXX          说明说明说明",
+      "style": "符号和缩略语说明",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 143,
+      "text": "XXXXX         说明说明说明",
+      "style": "符号和缩略语说明",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 144,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 145,
+      "text": "",
+      "style": "Heading 3",
+      "level": 3,
+      "is_heading": true
+    },
+    {
+      "index": 146,
+      "text": "引言（绪论）",
+      "style": "Heading 1",
+      "level": 1,
+      "is_heading": true
+    },
+    {
+      "index": 147,
+      "text": "标题",
+      "style": "Heading 2",
+      "level": 2,
+      "is_heading": true
+    },
+    {
+      "index": 148,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 149,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 150,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 151,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 152,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 153,
+      "text": "表1.1  表题",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 154,
+      "text": "注：如有需要可对表格进行注释说明，可省略。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 155,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 156,
+      "text": "标题",
+      "style": "Heading 3",
+      "level": 3,
+      "is_heading": true
+    },
+    {
+      "index": 157,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 158,
+      "text": "                          （1-1）",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 159,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 160,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 161,
+      "text": "图1.1  图题",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 162,
+      "text": "注：如有需要可对图片进行注释说明，可省略。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 163,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 164,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 165,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 166,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 167,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。文文字",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 168,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 169,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 170,
+      "text": "图1.2  图题 (a) 分图a图题；(b) 分图b图题",
+      "style": "图题",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 171,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 172,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 173,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 174,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 175,
+      "text": "标题",
+      "style": "Heading 3",
+      "level": 3,
+      "is_heading": true
+    },
+    {
+      "index": 176,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 177,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 178,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 179,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 180,
+      "text": "表1.2  表题",
+      "style": "表题",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 181,
+      "text": "续表1.2  表题",
+      "style": "表题",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 182,
+      "text": ". 标题",
+      "style": "Heading 4",
+      "level": 4,
+      "is_heading": true
+    },
+    {
+      "index": 183,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 184,
+      "text": ". 标题",
+      "style": "Heading 4",
+      "level": 4,
+      "is_heading": true
+    },
+    {
+      "index": 185,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 186,
+      "text": "标题",
+      "style": "Heading 3",
+      "level": 3,
+      "is_heading": true
+    },
+    {
+      "index": 187,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 188,
+      "text": "标题",
+      "style": "Heading 2",
+      "level": 2,
+      "is_heading": true
+    },
+    {
+      "index": 189,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 190,
+      "text": "标题",
+      "style": "Heading 2",
+      "level": 2,
+      "is_heading": true
+    },
+    {
+      "index": 191,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 192,
+      "text": "标题",
+      "style": "Heading 1",
+      "level": 1,
+      "is_heading": true
+    },
+    {
+      "index": 193,
+      "text": "标题",
+      "style": "Heading 2",
+      "level": 2,
+      "is_heading": true
+    },
+    {
+      "index": 194,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 195,
+      "text": "标题",
+      "style": "Heading 3",
+      "level": 3,
+      "is_heading": true
+    },
+    {
+      "index": 196,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 197,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 198,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 199,
+      "text": "标题",
+      "style": "Heading 1",
+      "level": 1,
+      "is_heading": true
+    },
+    {
+      "index": 200,
+      "text": "标题",
+      "style": "Heading 2",
+      "level": 2,
+      "is_heading": true
+    },
+    {
+      "index": 201,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 202,
+      "text": "标题",
+      "style": "Heading 3",
+      "level": 3,
+      "is_heading": true
+    },
+    {
+      "index": 203,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 204,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 205,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 206,
+      "text": "标题",
+      "style": "Heading 1",
+      "level": 1,
+      "is_heading": true
+    },
+    {
+      "index": 207,
+      "text": "标题",
+      "style": "Heading 2",
+      "level": 2,
+      "is_heading": true
+    },
+    {
+      "index": 208,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 209,
+      "text": "标题",
+      "style": "Heading 3",
+      "level": 3,
+      "is_heading": true
+    },
+    {
+      "index": 210,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 211,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 212,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 213,
+      "text": "结语（结论）",
+      "style": "Heading 1",
+      "level": 1,
+      "is_heading": true
+    },
+    {
+      "index": 214,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 215,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 216,
+      "text": "参考文献",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 217,
+      "text": "[1]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 218,
+      "text": "[2]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 219,
+      "text": "[3]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 220,
+      "text": "[4]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 221,
+      "text": "[5]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 222,
+      "text": "[6]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 223,
+      "text": "[7]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 224,
+      "text": "[8]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 225,
+      "text": "[9]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 226,
+      "text": "[10]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 227,
+      "text": "[11]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 228,
+      "text": "[12]XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX.",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 229,
+      "text": "附录A  XXXX调查问卷",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 230,
+      "text": "文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 231,
+      "text": "附录B  XXXX统计数据",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 232,
+      "text": "文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 233,
+      "text": "后    记",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 234,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 235,
+      "text": "正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字正文文字。",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 236,
+      "text": "在学期间取得创新性成果情况",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 237,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    },
+    {
+      "index": 238,
+      "text": "导师（组）对学位论文的评语",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 239,
+      "text": "答辩委员会决议书",
+      "style": "Title",
+      "level": 0,
+      "is_heading": true
+    },
+    {
+      "index": 240,
+      "text": "",
+      "style": "Normal",
+      "level": 0,
+      "is_heading": false
+    }
+  ],
+  "tables": [
+    {
+      "index": 0,
+      "rows": 17,
+      "cols": 5,
+      "style": "Table Grid"
+    },
+    {
+      "index": 1,
+      "rows": 7,
+      "cols": 2,
+      "style": "Normal Table"
+    },
+    {
+      "index": 2,
+      "rows": 11,
+      "cols": 5,
+      "style": "Table Grid"
+    },
+    {
+      "index": 3,
+      "rows": 9,
+      "cols": 5,
+      "style": "Table Grid"
+    },
+    {
+      "index": 4,
+      "rows": 6,
+      "cols": 5,
+      "style": "Normal Table"
+    },
+    {
+      "index": 5,
+      "rows": 3,
+      "cols": 5,
+      "style": "Table Grid"
+    },
+    {
+      "index": 6,
+      "rows": 3,
+      "cols": 4,
+      "style": "Table Grid"
+    }
+  ],
+  "headers": [
+    {
+      "text": "",
+      "is_linked": false
+    },
+    {
+      "text": "",
+      "is_linked": true
+    },
+    {
+      "text": "",
+      "is_linked": false
+    },
+    {
+      "text": "",
+      "is_linked": true
+    },
+    {
+      "text": "",
+      "is_linked": false
+    },
+    {
+      "text": "",
+      "is_linked": false
+    },
+    {
+      "text": "",
+      "is_linked": true
+    },
+    {
+      "text": "",
+      "is_linked": true
+    },
+    {
+      "text": "东北师范大学硕士学位论文",
+      "is_linked": false
+    }
+  ],
+  "footers": [
+    {
+      "text": "",
+      "is_linked": false
+    },
+    {
+      "text": "",
+      "is_linked": true
+    },
+    {
+      "text": "",
+      "is_linked": true
+    },
+    {
+      "text": "",
+      "is_linked": true
+    },
+    {
+      "text": "",
+      "is_linked": false
+    },
+    {
+      "text": "",
+      "is_linked": false
+    },
+    {
+      "text": "",
+      "is_linked": true
+    },
+    {
+      "text": "",
+      "is_linked": false
+    },
+    {
+      "text": "",
+      "is_linked": false
+    }
+  ]
+}

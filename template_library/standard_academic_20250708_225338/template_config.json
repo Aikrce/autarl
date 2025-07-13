@@ -1,0 +1,5884 @@
+{
+  "filename": "standard_academic_20250708_225338.docx",
+  "page_setup": {
+    "width": 21.000866069648936,
+    "height": 29.70036812369803,
+    "margins": {
+      "top": 2.499431145699021,
+      "bottom": 2.0002504722813614,
+      "left": 2.499431145699021,
+      "right": 2.499431145699021
+    },
+    "orientation": "portrait"
+  },
+  "header_footer": {
+    "header_distance": null,
+    "footer_distance": null,
+    "different_first_page": false,
+    "different_odd_even": false
+  },
+  "styles": [
+    {
+      "style_id": "Normal",
+      "name": "Normal",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.5,
+        "first_line_indent": 0.7496529547791699,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "Header",
+      "name": "Header",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "HeaderChar",
+      "name": "Header Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Footer",
+      "name": "Footer",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "FooterChar",
+      "name": "Footer Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading1",
+      "name": "Heading 1",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 16.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "365F91"
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 18.0,
+        "space_after": 12.0,
+        "line_spacing": 1.5,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading2",
+      "name": "Heading 2",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 14.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 12.0,
+        "space_after": 6.0,
+        "line_spacing": 1.5,
+        "first_line_indent": 0.7496529547791699,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading3",
+      "name": "Heading 3",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 12.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 6.0,
+        "space_after": 3.0,
+        "line_spacing": 1.5,
+        "first_line_indent": 0.7496529547791699,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading4",
+      "name": "Heading 4",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 12.0,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 6.0,
+        "space_after": 3.0,
+        "line_spacing": 1.5,
+        "first_line_indent": 0.7496529547791699,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading5",
+      "name": "Heading 5",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "243F60"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 10.0,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading6",
+      "name": "Heading 6",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "243F60"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 10.0,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading7",
+      "name": "Heading 7",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "404040"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 10.0,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading8",
+      "name": "Heading 8",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 10.0,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading9",
+      "name": "Heading 9",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 10.0,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "404040"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 10.0,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "DefaultParagraphFont",
+      "name": "Default Paragraph Font",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "TableNormal",
+      "name": "Normal Table",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "NoList",
+      "name": "No List",
+      "style_type": "list",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "NoSpacing",
+      "name": "No Spacing",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "Heading1Char",
+      "name": "Heading 1 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 14.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "365F91"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading2Char",
+      "name": "Heading 2 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 13.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading3Char",
+      "name": "Heading 3 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Title",
+      "name": "Title",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 26.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "17365D"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": 15.0,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {
+        "bottom": {
+          "val": "single",
+          "sz": "8",
+          "color": "4F81BD"
+        }
+      },
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "TitleChar",
+      "name": "Title Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 26.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "17365D"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Subtitle",
+      "name": "Subtitle",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 12.0,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": 1
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "SubtitleChar",
+      "name": "Subtitle Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 12.0,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "ListParagraph",
+      "name": "List Paragraph",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": 1.270000299861182,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "BodyText",
+      "name": "Body Text",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": 6.0,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "BodyTextChar",
+      "name": "Body Text Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "BodyText2",
+      "name": "Body Text 2",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": 6.0,
+        "line_spacing": 2.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "BodyText2Char",
+      "name": "Body Text 2 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "BodyText3",
+      "name": "Body Text 3",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 8.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": 6.0,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "BodyText3Char",
+      "name": "Body Text 3 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 8.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "List",
+      "name": "List",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": -0.635000149930591,
+        "left_indent": 0.635000149930591,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "List2",
+      "name": "List 2",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": -0.635000149930591,
+        "left_indent": 1.270000299861182,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "List3",
+      "name": "List 3",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": -0.635000149930591,
+        "left_indent": 1.905000449791773,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListBullet",
+      "name": "List Bullet",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "1",
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListBullet2",
+      "name": "List Bullet 2",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "2",
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListBullet3",
+      "name": "List Bullet 3",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "3",
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListNumber",
+      "name": "List Number",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "5",
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListNumber2",
+      "name": "List Number 2",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "6",
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListNumber3",
+      "name": "List Number 3",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "7",
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListContinue",
+      "name": "List Continue",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": 6.0,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": 0.635000149930591,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListContinue2",
+      "name": "List Continue 2",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": 6.0,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": 1.270000299861182,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "ListContinue3",
+      "name": "List Continue 3",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": 6.0,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": 1.905000449791773,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "MacroText",
+      "name": "macro",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Courier",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "MacroTextChar",
+      "name": "Macro Text Char",
+      "style_type": "character",
+      "font": {
+        "name": "Courier",
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Quote",
+      "name": "Quote",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "QuoteChar",
+      "name": "Quote Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading4Char",
+      "name": "Heading 4 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": true,
+        "italic": true,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading5Char",
+      "name": "Heading 5 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "243F60"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading6Char",
+      "name": "Heading 6 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "243F60"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading7Char",
+      "name": "Heading 7 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "404040"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading8Char",
+      "name": "Heading 8 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 10.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Heading9Char",
+      "name": "Heading 9 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 10.0,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "404040"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Caption",
+      "name": "Caption",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 9.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "Strong",
+      "name": "Strong",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "Emphasis",
+      "name": "Emphasis",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "IntenseQuote",
+      "name": "Intense Quote",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": true,
+        "italic": true,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 10.0,
+        "space_after": 14.0,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": 1.6510003898195365,
+        "right_indent": 1.6510003898195365,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {
+        "bottom": {
+          "val": "single",
+          "sz": "4",
+          "color": "4F81BD"
+        }
+      },
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "IntenseQuoteChar",
+      "name": "Intense Quote Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": true,
+        "italic": true,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "SubtleEmphasis",
+      "name": "Subtle Emphasis",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": true,
+        "underline": false,
+        "color": "808080"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "IntenseEmphasis",
+      "name": "Intense Emphasis",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": true,
+        "italic": true,
+        "underline": false,
+        "color": "4F81BD"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "SubtleReference",
+      "name": "Subtle Reference",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": true,
+        "color": "C0504D"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "IntenseReference",
+      "name": "Intense Reference",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": true,
+        "italic": false,
+        "underline": true,
+        "color": "C0504D"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "BookTitle",
+      "name": "Book Title",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "TOCHeading",
+      "name": "TOC Heading",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Heading 1",
+      "next_style": null
+    },
+    {
+      "style_id": "TableGrid",
+      "name": "Table Grid",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightShading",
+      "name": "Light Shading",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0C0C0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightShading-Accent1",
+      "name": "Light Shading Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "365F91"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D3DFEE"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightShading-Accent2",
+      "name": "Light Shading Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "943634"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EFD3D2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightShading-Accent3",
+      "name": "Light Shading Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "76923C"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E6EED5"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightShading-Accent4",
+      "name": "Light Shading Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "5F497A"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "DFD8E8"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightShading-Accent5",
+      "name": "Light Shading Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "31849B"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D2EAF1"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightShading-Accent6",
+      "name": "Light Shading Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "E36C0A"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FDE4D0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightList",
+      "name": "Light List",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "000000"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightList-Accent1",
+      "name": "Light List Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "4F81BD"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightList-Accent2",
+      "name": "Light List Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0504D"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightList-Accent3",
+      "name": "Light List Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "9BBB59"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightList-Accent4",
+      "name": "Light List Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "8064A2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightList-Accent5",
+      "name": "Light List Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "4BACC6"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightList-Accent6",
+      "name": "Light List Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F79646"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightGrid",
+      "name": "Light Grid",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0C0C0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightGrid-Accent1",
+      "name": "Light Grid Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D3DFEE"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightGrid-Accent2",
+      "name": "Light Grid Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EFD3D2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightGrid-Accent3",
+      "name": "Light Grid Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E6EED5"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightGrid-Accent4",
+      "name": "Light Grid Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "DFD8E8"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightGrid-Accent5",
+      "name": "Light Grid Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D2EAF1"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "LightGrid-Accent6",
+      "name": "Light Grid Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FDE4D0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading1",
+      "name": "Medium Shading 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "000000"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading1-Accent1",
+      "name": "Medium Shading 1 Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "4F81BD"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading1-Accent2",
+      "name": "Medium Shading 1 Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0504D"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading1-Accent3",
+      "name": "Medium Shading 1 Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "9BBB59"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading1-Accent4",
+      "name": "Medium Shading 1 Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "8064A2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading1-Accent5",
+      "name": "Medium Shading 1 Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "4BACC6"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading1-Accent6",
+      "name": "Medium Shading 1 Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F79646"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading2",
+      "name": "Medium Shading 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "000000"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading2-Accent1",
+      "name": "Medium Shading 2 Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "4F81BD"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading2-Accent2",
+      "name": "Medium Shading 2 Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0504D"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading2-Accent3",
+      "name": "Medium Shading 2 Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "9BBB59"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading2-Accent4",
+      "name": "Medium Shading 2 Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "8064A2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading2-Accent5",
+      "name": "Medium Shading 2 Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "4BACC6"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumShading2-Accent6",
+      "name": "Medium Shading 2 Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F79646"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList1",
+      "name": "Medium List 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0C0C0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList1-Accent1",
+      "name": "Medium List 1 Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D3DFEE"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList1-Accent2",
+      "name": "Medium List 1 Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EFD3D2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList1-Accent3",
+      "name": "Medium List 1 Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E6EED5"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList1-Accent4",
+      "name": "Medium List 1 Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "DFD8E8"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList1-Accent5",
+      "name": "Medium List 1 Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D2EAF1"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList1-Accent6",
+      "name": "Medium List 1 Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FDE4D0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList2",
+      "name": "Medium List 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FFFFFF"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList2-Accent1",
+      "name": "Medium List 2 Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FFFFFF"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList2-Accent2",
+      "name": "Medium List 2 Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FFFFFF"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList2-Accent3",
+      "name": "Medium List 2 Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FFFFFF"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList2-Accent4",
+      "name": "Medium List 2 Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FFFFFF"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList2-Accent5",
+      "name": "Medium List 2 Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FFFFFF"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumList2-Accent6",
+      "name": "Medium List 2 Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FFFFFF"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid1",
+      "name": "Medium Grid 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0C0C0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid1-Accent1",
+      "name": "Medium Grid 1 Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D3DFEE"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid1-Accent2",
+      "name": "Medium Grid 1 Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EFD3D2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid1-Accent3",
+      "name": "Medium Grid 1 Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E6EED5"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid1-Accent4",
+      "name": "Medium Grid 1 Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "DFD8E8"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid1-Accent5",
+      "name": "Medium Grid 1 Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D2EAF1"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid1-Accent6",
+      "name": "Medium Grid 1 Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FDE4D0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid2",
+      "name": "Medium Grid 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0C0C0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid2-Accent1",
+      "name": "Medium Grid 2 Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D3DFEE"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid2-Accent2",
+      "name": "Medium Grid 2 Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EFD3D2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid2-Accent3",
+      "name": "Medium Grid 2 Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E6EED5"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid2-Accent4",
+      "name": "Medium Grid 2 Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "DFD8E8"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid2-Accent5",
+      "name": "Medium Grid 2 Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D2EAF1"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid2-Accent6",
+      "name": "Medium Grid 2 Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FDE4D0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid3",
+      "name": "Medium Grid 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0C0C0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid3-Accent1",
+      "name": "Medium Grid 3 Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D3DFEE"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid3-Accent2",
+      "name": "Medium Grid 3 Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EFD3D2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid3-Accent3",
+      "name": "Medium Grid 3 Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E6EED5"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid3-Accent4",
+      "name": "Medium Grid 3 Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "DFD8E8"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid3-Accent5",
+      "name": "Medium Grid 3 Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "D2EAF1"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "MediumGrid3-Accent6",
+      "name": "Medium Grid 3 Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FDE4D0"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "DarkList",
+      "name": "Dark List",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "FFFFFF"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "000000"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "DarkList-Accent1",
+      "name": "Dark List Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "FFFFFF"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "4F81BD"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "DarkList-Accent2",
+      "name": "Dark List Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "FFFFFF"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "C0504D"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "DarkList-Accent3",
+      "name": "Dark List Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "FFFFFF"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "9BBB59"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "DarkList-Accent4",
+      "name": "Dark List Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "FFFFFF"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "8064A2"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "DarkList-Accent5",
+      "name": "Dark List Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "FFFFFF"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "4BACC6"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "DarkList-Accent6",
+      "name": "Dark List Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "FFFFFF"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F79646"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulShading",
+      "name": "Colorful Shading",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E6E6E6"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulShading-Accent1",
+      "name": "Colorful Shading Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EDF2F8"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulShading-Accent2",
+      "name": "Colorful Shading Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F8EDED"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulShading-Accent3",
+      "name": "Colorful Shading Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F5F8EE"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulShading-Accent4",
+      "name": "Colorful Shading Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F2EFF6"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulShading-Accent5",
+      "name": "Colorful Shading Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EDF6F9"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulShading-Accent6",
+      "name": "Colorful Shading Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FEF4EC"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulList",
+      "name": "Colorful List",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E6E6E6"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulList-Accent1",
+      "name": "Colorful List Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EDF2F8"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulList-Accent2",
+      "name": "Colorful List Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F8EDED"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulList-Accent3",
+      "name": "Colorful List Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F5F8EE"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulList-Accent4",
+      "name": "Colorful List Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F2EFF6"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulList-Accent5",
+      "name": "Colorful List Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EDF6F9"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulList-Accent6",
+      "name": "Colorful List Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FEF4EC"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulGrid",
+      "name": "Colorful Grid",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "CCCCCC"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulGrid-Accent1",
+      "name": "Colorful Grid Accent 1",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "DBE5F1"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulGrid-Accent2",
+      "name": "Colorful Grid Accent 2",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "F2DBDB"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulGrid-Accent3",
+      "name": "Colorful Grid Accent 3",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "EAF1DD"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulGrid-Accent4",
+      "name": "Colorful Grid Accent 4",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "E5DFEC"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulGrid-Accent5",
+      "name": "Colorful Grid Accent 5",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "DAEEF3"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "ColorfulGrid-Accent6",
+      "name": "Colorful Grid Accent 6",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {
+        "val": "clear",
+        "color": "auto",
+        "fill": "FDE9D9"
+      },
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "PaperTitle",
+      "name": "Paper Title",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 16.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": null,
+        "space_after": 18.0,
+        "line_spacing": 1.15,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "References",
+      "name": "References",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "space_before": null,
+        "space_after": 3.0,
+        "line_spacing": 1.5,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "AcademicFootnote",
+      "name": "Academic Footnote",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "TableCaption",
+      "name": "Table Caption",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 10.5,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 6.0,
+        "space_after": 6.0,
+        "line_spacing": 1.15,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "FigureCaption",
+      "name": "Figure Caption",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 10.5,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 6.0,
+        "space_after": 12.0,
+        "line_spacing": 1.15,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "AbstractTitle",
+      "name": "Abstract Title",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 14.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 18.0,
+        "space_after": 12.0,
+        "line_spacing": 1.15,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "AbstractBody",
+      "name": "Abstract Body",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 11.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.15,
+        "first_line_indent": null,
+        "left_indent": 0.49918067341765904,
+        "right_indent": 0.49918067341765904,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "Keywords",
+      "name": "Keywords",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 11.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "space_before": 6.0,
+        "space_after": 12.0,
+        "line_spacing": 1.15,
+        "first_line_indent": null,
+        "left_indent": 0.49918067341765904,
+        "right_indent": 0.49918067341765904,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    }
+  ],
+  "numbering_definitions": {
+    "0": {
+      "abstractNumId": "0",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "%1.",
+          "lvlJc": "left"
+        }
+      ]
+    },
+    "1": {
+      "abstractNumId": "1",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "%1.",
+          "lvlJc": "left"
+        }
+      ]
+    },
+    "2": {
+      "abstractNumId": "2",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "%1.",
+          "lvlJc": "left"
+        }
+      ]
+    },
+    "3": {
+      "abstractNumId": "3",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "%1.",
+          "lvlJc": "left"
+        }
+      ]
+    },
+    "4": {
+      "abstractNumId": "4",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "bullet",
+          "lvlText": "",
+          "lvlJc": "left"
+        }
+      ]
+    },
+    "5": {
+      "abstractNumId": "5",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "bullet",
+          "lvlText": "",
+          "lvlJc": "left"
+        }
+      ]
+    },
+    "6": {
+      "abstractNumId": "6",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "bullet",
+          "lvlText": "",
+          "lvlJc": "left"
+        }
+      ]
+    },
+    "7": {
+      "abstractNumId": "7",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "%1.",
+          "lvlJc": "left"
+        }
+      ]
+    },
+    "8": {
+      "abstractNumId": "8",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "bullet",
+          "lvlText": "",
+          "lvlJc": "left"
+        }
+      ]
+    }
+  },
+  "theme_colors": {
+    "dk2": "1F497D",
+    "lt2": "EEECE1",
+    "accent1": "4F81BD",
+    "accent2": "C0504D",
+    "accent3": "9BBB59",
+    "accent4": "8064A2",
+    "accent5": "4BACC6",
+    "accent6": "F79646",
+    "hlink": "0000FF",
+    "folHlink": "800080"
+  },
+  "font_scheme": {
+    "major": "Calibri",
+    "minor": "Cambria"
+  }
+}

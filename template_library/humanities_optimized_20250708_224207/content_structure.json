@@ -1,0 +1,49 @@
+{
+  "document_structure": {
+    "title_page": true,
+    "abstract_cn": true,
+    "abstract_en": true,
+    "keywords": true,
+    "table_of_contents": true,
+    "main_content": true,
+    "conclusion": true,
+    "references": true,
+    "appendix": true,
+    "acknowledgments": true
+  },
+  "humanities_features": {
+    "footnote_system": true,
+    "bibliography_management": true,
+    "citation_tracking": true,
+    "multilevel_headings": true,
+    "academic_formatting": true
+  },
+  "formatting_rules": {
+    "heading_numbering": "chinese_humanities",
+    "table_numbering": "sequential",
+    "figure_numbering": "sequential",
+    "reference_style": "humanities_academic",
+    "footnote_style": "chicago_humanities"
+  },
+  "optimization_info": {
+    "created_at": "2025-07-08T22:42:07.642012",
+    "base_template": "人文社科核心版",
+    "optimization_focus": "humanities",
+    "features": {
+      "humanities_citation_style": true,
+      "enhanced_chinese_formatting": true,
+      "academic_structure_support": true,
+      "table_and_figure_optimization": true,
+      "reference_management": true,
+      "multilevel_headings": true,
+      "footnote_support": true
+    },
+    "humanities_specific": {
+      "citation_format": "chinese_academic",
+      "bibliography_style": "humanities",
+      "note_system": "footnotes_preferred",
+      "paragraph_style": "chinese_academic",
+      "heading_numbering": "chinese_traditional"
+    }
+  }
+}

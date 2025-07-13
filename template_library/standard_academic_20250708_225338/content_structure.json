@@ -1,0 +1,36 @@
+{
+  "document_structure": {
+    "title_page": true,
+    "abstract_cn": true,
+    "abstract_en": true,
+    "keywords": true,
+    "table_of_contents": true,
+    "main_content": true,
+    "references": true,
+    "appendix": false,
+    "acknowledgments": false
+  },
+  "formatting_rules": {
+    "page_format": "A4",
+    "margins": "2.5cm(左右) 2.5cm(上) 2.0cm(下)",
+    "line_spacing": "1.5倍行距",
+    "font_family": "Times New Roman",
+    "font_size": "12pt",
+    "heading_numbering": "numeric",
+    "reference_style": "academic_standard"
+  },
+  "style_features": {
+    "title_centered": true,
+    "first_line_indent": "0.75cm",
+    "justified_text": true,
+    "hanging_indent_references": true,
+    "footnote_support": true,
+    "caption_numbering": true
+  },
+  "template_info": {
+    "created_at": "2025-07-08T22:53:38.081860",
+    "template_type": "standard_academic",
+    "version": "1.0",
+    "description": "标准学术论文模板，适用于各类学术论文写作"
+  }
+}

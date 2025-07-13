@@ -4,7 +4,8 @@ import os
 import tempfile
 from flask import Flask, render_template, request, send_file, flash, redirect, url_for
 from werkzeug.utils import secure_filename
-from markdown_to_word import MarkdownToWordConverter
+from core.markdown_to_word import MarkdownToWordConverter
+from core.complete_converter import FixedCompleteMarkdownConverter as CompleteMarkdownConverter
 from templates_config import list_templates
 import shutil
 from datetime import datetime
@@ -64,26 +65,39 @@ def convert():
         
         # 转换文件
         template_name = request.form.get('template', 'default')
-        converter = MarkdownToWordConverter(template_name=template_name)
+        enable_mermaid = request.form.get('enable_mermaid', 'off') == 'on'
         
         # 获取转换方法
         method = request.form.get('method', 'python-docx')
         
         try:
             success = False
-            if method == 'pandoc':
-                success = converter.convert_with_pandoc(input_path, output_path, output_format)
-            else:
-                # 使用原生Python方法
+            
+            # 如果启用了Mermaid支持，使用完整转换器
+            if enable_mermaid:
+                converter = CompleteMarkdownConverter(mermaid_method='web')
                 if output_format == 'docx':
-                    success = converter.convert_with_python_docx(input_path, output_path)
-                elif output_format == 'html':
-                    success = converter.convert_to_html(input_path, output_path)
-                elif output_format == 'txt':
-                    success = converter.convert_to_txt(input_path, output_path)
+                    success = converter.convert(input_path, output_path)
                 else:
-                    flash(f'格式 {output_format.upper()} 仅支持Pandoc转换方法，请选择Pandoc或切换到其他格式', 'warning')
-                    return redirect(url_for('index'))
+                    flash('Mermaid支持目前仅适用于DOCX格式', 'warning')
+                    converter = MarkdownToWordConverter(template_name=template_name)
+            else:
+                converter = MarkdownToWordConverter(template_name=template_name)
+            
+            if not enable_mermaid:
+                if method == 'pandoc':
+                    success = converter.convert_with_pandoc(input_path, output_path, output_format)
+                else:
+                    # 使用原生Python方法
+                    if output_format == 'docx':
+                        success = converter.convert_with_python_docx(input_path, output_path)
+                    elif output_format == 'html':
+                        success = converter.convert_to_html(input_path, output_path)
+                    elif output_format == 'txt':
+                        success = converter.convert_to_txt(input_path, output_path)
+                    else:
+                        flash(f'格式 {output_format.upper()} 仅支持Pandoc转换方法，请选择Pandoc或切换到其他格式', 'warning')
+                        return redirect(url_for('index'))
             
             if success:
                 # 清理输入文件
@@ -149,26 +163,39 @@ def convert_text():
     
     # 转换文件
     template_name = request.form.get('template', 'default')
-    converter = MarkdownToWordConverter(template_name=template_name)
+    enable_mermaid = request.form.get('enable_mermaid', 'off') == 'on'
     
     # 获取转换方法
     method = request.form.get('method', 'python-docx')
     
     try:
         success = False
-        if method == 'pandoc':
-            success = converter.convert_with_pandoc(input_path, output_path, output_format)
-        else:
-            # 使用原生Python方法
+        
+        # 如果启用了Mermaid支持，使用完整转换器
+        if enable_mermaid:
+            converter = CompleteMarkdownConverter(mermaid_method='web')
             if output_format == 'docx':
-                success = converter.convert_with_python_docx(input_path, output_path)
-            elif output_format == 'html':
-                success = converter.convert_to_html(input_path, output_path)
-            elif output_format == 'txt':
-                success = converter.convert_to_txt(input_path, output_path)
+                success = converter.convert(input_path, output_path)
             else:
-                flash(f'格式 {output_format.upper()} 仅支持Pandoc转换方法，请选择Pandoc或切换到其他格式', 'warning')
-                return redirect(url_for('index'))
+                flash('Mermaid支持目前仅适用于DOCX格式', 'warning')
+                converter = MarkdownToWordConverter(template_name=template_name)
+        else:
+            converter = MarkdownToWordConverter(template_name=template_name)
+        
+        if not enable_mermaid:
+            if method == 'pandoc':
+                success = converter.convert_with_pandoc(input_path, output_path, output_format)
+            else:
+                # 使用原生Python方法
+                if output_format == 'docx':
+                    success = converter.convert_with_python_docx(input_path, output_path)
+                elif output_format == 'html':
+                    success = converter.convert_to_html(input_path, output_path)
+                elif output_format == 'txt':
+                    success = converter.convert_to_txt(input_path, output_path)
+                else:
+                    flash(f'格式 {output_format.upper()} 仅支持Pandoc转换方法，请选择Pandoc或切换到其他格式', 'warning')
+                    return redirect(url_for('index'))
         
         if success:
             # 清理输入文件
@@ -219,4 +246,4 @@ if __name__ == '__main__':
     os.makedirs(app.config['UPLOAD_FOLDER'], exist_ok=True)
     
     # 运行应用
-    app.run(debug=True, host='0.0.0.0', port=5002)
+    app.run(debug=True, host='127.0.0.1', port=8080)

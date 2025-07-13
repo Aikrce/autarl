@@ -1,0 +1,1168 @@
+{
+  "filename": "humanities_optimized_20250708_224207.docx",
+  "page_setup": {
+    "width": 21.000866069648936,
+    "height": 29.70036812369803,
+    "margins": {
+      "top": 2.499431145699021,
+      "bottom": 2.0002504722813614,
+      "left": 2.499431145699021,
+      "right": 2.0002504722813614
+    },
+    "orientation": "portrait"
+  },
+  "header_footer": {
+    "header_distance": null,
+    "footer_distance": null,
+    "different_first_page": false,
+    "different_odd_even": false
+  },
+  "styles": [
+    {
+      "style_id": "1",
+      "name": "Normal",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.5,
+        "first_line_indent": 0.7496529547791699,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "3",
+      "name": "Heading 1",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 16.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 24.0,
+        "space_after": 18.0,
+        "line_spacing": 1.5,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "1",
+        "level": 0
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "4",
+      "name": "Heading 2",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 14.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 12.0,
+        "space_after": 6.0,
+        "line_spacing": 1.5,
+        "first_line_indent": 0.7496529547791699,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "1",
+        "level": 1
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "2",
+      "name": "Heading 3",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 12.0,
+        "bold": true,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": 6.0,
+        "space_after": 3.0,
+        "line_spacing": 1.5,
+        "first_line_indent": 0.7496529547791699,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "1",
+        "level": 2
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "5",
+      "name": "Heading 4",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.5,
+        "first_line_indent": 0.8466668665741213,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": "1",
+        "level": 3
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "6",
+      "name": "Heading 6",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 16.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": "000000"
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.5,
+        "first_line_indent": 1.0583335832176517,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "20",
+      "name": "Default Paragraph Font",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "18",
+      "name": "Normal Table",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "7",
+      "name": "Caption",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Arial",
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 6.0,
+        "space_after": 6.0,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "8",
+      "name": "annotation text",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "9",
+      "name": "toc 3",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": 0.8466668665741213,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "10",
+      "name": "Balloon Text",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "11",
+      "name": "Footer",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "12",
+      "name": "Header",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {
+        "bottom": {
+          "val": "single",
+          "sz": "6",
+          "color": "auto"
+        }
+      },
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "13",
+      "name": "toc 1",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "14",
+      "name": "footnote text",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "15",
+      "name": "table of figures",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "16",
+      "name": "toc 2",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": 0.42333343328706063,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "17",
+      "name": "Title",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 16.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 48.0,
+        "space_after": 24.0,
+        "line_spacing": 1.5,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "19",
+      "name": "Table Grid",
+      "style_type": "table",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "justify",
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal Table",
+      "next_style": null
+    },
+    {
+      "style_id": "21",
+      "name": "page number",
+      "style_type": "character",
+      "font": {
+        "name": "Times New Roman",
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Default Paragraph Font",
+      "next_style": null
+    },
+    {
+      "style_id": "22",
+      "name": "footnote reference",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "23",
+      "name": "标题 1 Char",
+      "style_type": "character",
+      "font": {
+        "name": "Times New Roman",
+        "size": 16.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "24",
+      "name": "标题 2 Char",
+      "style_type": "character",
+      "font": {
+        "name": "Times New Roman",
+        "size": 14.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "25",
+      "name": "批注文字 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "26",
+      "name": "批注框文本 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 9.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "27",
+      "name": "标题 Char",
+      "style_type": "character",
+      "font": {
+        "name": "Times New Roman",
+        "size": 16.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "28",
+      "name": "缩写表",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 12.0,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": 6.0,
+        "line_spacing": 254000,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "toc 1",
+      "next_style": null
+    },
+    {
+      "style_id": "29",
+      "name": "表题",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 6.0,
+        "space_after": 6.0,
+        "line_spacing": 1.5,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "30",
+      "name": "表题 Char",
+      "style_type": "character",
+      "font": {
+        "name": null,
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    },
+    {
+      "style_id": "31",
+      "name": "符号和缩略语说明",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": null,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "32",
+      "name": "图注",
+      "style_type": "paragraph",
+      "font": {
+        "name": "Times New Roman",
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": 1.0,
+        "first_line_indent": 0.7408335082523562,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "33",
+      "name": "图题",
+      "style_type": "paragraph",
+      "font": {
+        "name": null,
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": "center",
+        "space_before": 6.0,
+        "space_after": 12.0,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": "Normal",
+      "next_style": null
+    },
+    {
+      "style_id": "34",
+      "name": "图题 Char",
+      "style_type": "character",
+      "font": {
+        "name": "Times New Roman",
+        "size": 10.5,
+        "bold": false,
+        "italic": false,
+        "underline": false,
+        "color": null
+      },
+      "paragraph": {
+        "alignment": null,
+        "space_before": null,
+        "space_after": null,
+        "line_spacing": null,
+        "first_line_indent": null,
+        "left_indent": null,
+        "right_indent": null,
+        "hanging_indent": null
+      },
+      "numbering": {
+        "id": null,
+        "level": null
+      },
+      "borders": {},
+      "shading": {},
+      "based_on": null,
+      "next_style": null
+    }
+  ],
+  "numbering_definitions": {
+    "0": {
+      "abstractNumId": "0",
+      "levels": [
+        {
+          "ilvl": "0",
+          "start": "1",
+          "numFmt": "chineseCounting",
+          "lvlText": "第%1章  ",
+          "lvlJc": "center"
+        },
+        {
+          "ilvl": "1",
+          "start": "1",
+          "numFmt": "chineseCounting",
+          "lvlText": "%2、",
+          "lvlJc": "left"
+        },
+        {
+          "ilvl": "2",
+          "start": "1",
+          "numFmt": "chineseCounting",
+          "lvlText": "（%3）",
+          "lvlJc": "left"
+        },
+        {
+          "ilvl": "3",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "%4",
+          "lvlJc": "left"
+        },
+        {
+          "ilvl": "4",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "%5．",
+          "lvlJc": "left"
+        },
+        {
+          "ilvl": "5",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "（%6）",
+          "lvlJc": "left"
+        },
+        {
+          "ilvl": "6",
+          "start": "1",
+          "numFmt": "decimalEnclosedCircleChinese",
+          "lvlText": "%7 ",
+          "lvlJc": "left"
+        },
+        {
+          "ilvl": "7",
+          "start": "1",
+          "numFmt": "decimal",
+          "lvlText": "%8）",
+          "lvlJc": "left"
+        },
+        {
+          "ilvl": "8",
+          "start": "1",
+          "numFmt": "lowerLetter",
+          "lvlText": "%9．",
+          "lvlJc": "left"
+        }
+      ]
+    }
+  },
+  "theme_colors": {
+    "dk2": "1F497D",
+    "lt2": "EEECE1",
+    "accent1": "4F81BD",
+    "accent2": "C0504D",
+    "accent3": "9BBB59",
+    "accent4": "8064A2",
+    "accent5": "4BACC6",
+    "accent6": "F79646",
+    "hlink": "0000FF",
+    "folHlink": "800080"
+  },
+  "font_scheme": {
+    "major": "Cambria",
+    "minor": "Calibri"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "templates": {
+    "b7501d5f02fa": {
+      "name": "论文模版",
+      "description": "用户上传的论文模板",
+      "tags": [],
+      "created_at": "2025-07-08T22:49:32.199270",
+      "word_file": "template_library/b7501d5f02fa/b7501d5f02fa.docx",
+      "config_file": "template_library/b7501d5f02fa/template_config.json",
+      "structure_file": "template_library/b7501d5f02fa/content_structure.json",
+      "styles_count": 34,
+      "page_setup": {
+        "width": 21.000866069648936,
+        "height": 29.70036812369803,
+        "orientation": "portrait"
+      }
+    },
+    "humanities_optimized_20250708_224207": {
+      "name": "人文社科优化版",
+      "description": "以人文社科为主体的优化学术论文模板，融合东北师范大学格式规范",
+      "tags": [
+        "academic",
+        "humanities",
+        "thesis",
+        "nenu",
+        "optimized",
+        "primary"
+      ],
+      "created_at": "2025-07-08T22:42:07.644079",
+      "word_file": "template_library/humanities_optimized_20250708_224207/humanities_optimized_20250708_224207.docx",
+      "config_file": "template_library/humanities_optimized_20250708_224207/template_config.json",
+      "structure_file": "template_library/humanities_optimized_20250708_224207/content_structure.json",
+      "styles_count": 34,
+      "page_setup": {
+        "width": 21.000866069648936,
+        "height": 29.70036812369803,
+        "orientation": "portrait"
+      },
+      "is_optimized": true,
+      "optimization_focus": "humanities",
+      "template_priority": "primary"
+    },
+    "standard_academic_20250708_225338": {
+      "name": "标准学术论文模板",
+      "description": "标准学术论文模板，适用于各类学术论文写作，包含完整的论文结构和格式规范",
+      "tags": [
+        "academic",
+        "standard",
+        "thesis",
+        "paper",
+        "universal"
+      ],
+      "created_at": "2025-07-08T22:53:38.082035",
+      "word_file": "template_library/standard_academic_20250708_225338/standard_academic_20250708_225338.docx",
+      "config_file": "template_library/standard_academic_20250708_225338/template_config.json",
+      "structure_file": "template_library/standard_academic_20250708_225338/content_structure.json",
+      "styles_count": 172,
+      "page_setup": {
+        "width": 21.0,
+        "height": 29.7,
+        "orientation": "portrait"
+      },
+      "is_standard": true,
+      "template_type": "academic_standard",
+      "priority": "standard"
+    }
+  },
+  "version": "1.0"
+}
